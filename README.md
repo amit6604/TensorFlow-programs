@@ -1,5 +1,5 @@
 # TensofFlow-programs
-This respository contains all tensorflow programs from basic to advance concepts.
+This respository contains all tensorflow programs from basic to some advance concepts.
 
 
 # Tensorflow Programs and Tutorials
